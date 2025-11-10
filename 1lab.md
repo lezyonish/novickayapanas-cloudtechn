@@ -7,13 +7,13 @@
 
 1) Подготовка к выполнению
 
-<img width="600" src="/img/1.jpg"/>
-<img width="600" src="img/2.jpg"/>
+<img width="600" src="1.jpg"/>
+<img width="600" src="2.jpg"/>
 
 Сначала были установлены необходимые пакеты.
 Затем созданы папки под проекты следующим образом:
 
-<img width="600" src="img/3.jpg"/>
+<img width="600" src="3.jpg"/>
 
 
 2) Nginx
