@@ -49,6 +49,7 @@
     <img width="500" src="teory.png">
 
     <details><summary><b>источники</b></summary>
+      
     1. [Киберпротект - Что такое IaaS, PaaS, SaaS и каковы различия между ними](https://cyberprotect.ru/blog/cloud-services-models)
 
     2. [Билайн - Корпоративный IaaS, PaaS, SaaS. Что это такое и зачем нужны?](https://b2blog.beeline.ru/korporativnyi-iaas-paas-saas/)
@@ -118,5 +119,6 @@
 
 ## **Итоги:**
 Познакомились с облачными сервисами, изучили теорию по IAAS, PAAS, SAAS, распределили потребление сервисов AWS по иерархии.
+
 
 <img width="500" src="finish.jpg">
