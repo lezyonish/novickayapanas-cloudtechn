@@ -12,7 +12,7 @@ Docker Compose - это уже про запуск всего приложени
 
 # 2) Далее мы приступили к созданию "плохого" dockercompose. 
 
-<img width="250" src="компоузплохой.png"/>
+<img width="250" src="666.png"/>
 
 **Недостатки применения такого файла:**
 1. явное указание container_name (lolkek_app), что ломает изоляцию compose-проектов
@@ -40,7 +40,7 @@ docker compose -f docker-compose.plohoy.yml up --build
 # 4) Затем мы создали "хороший" dockercompose.
 
 
-<img width="524" src="компоузкрутой.png"/>
+<img width="524" src="888.png"/>
 
 
 **Преимущества такого файла:**
