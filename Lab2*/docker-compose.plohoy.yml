@@ -1,0 +1,19 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile.plohoy
+    container_name: my_super_app
+    working_dir: /app
+    ports:
+      - "5003:5000"
+
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: appdb
+    ports:
+      - "5004:5432"
+
